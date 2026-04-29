@@ -86,9 +86,3 @@ No third-party dependencies are required.
 1. Open `QRCodeGenerator.xcodeproj` in Xcode.
 2. Select the `QRCodeGenerator` scheme.
 3. Run the app on an iOS Simulator or connected iOS device.
-
-## Blog Post Companion
-
-The full app is intentionally more complete than the focused blog article. For the blog, the best entry point is the QR generation helper itself: how `CIFilter.qrCodeGenerator()` works, why the output image is scaled, and how SwiftUI displays it cleanly with `.interpolation(.none)`.
-
-Readers who want the finished version can use this repository to see the surrounding production-quality details: input handling, preview state, reset behavior, failure handling, and sharing.
