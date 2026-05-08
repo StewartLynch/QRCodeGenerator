@@ -6,8 +6,7 @@ QRCodeGenerator is a finished SwiftUI demo app that generates a scannable QR cod
 
 It is designed as the complete sample project that accompanies a focused blog post about the reusable `QRCodeGenerator` helper. The post can stay small and teach the Core Image technique, while this app shows the surrounding user experience needed for a polished demo.
 
-](https://www.createchsol.com/blog/2026-05-08-generating-a-qr-code-from-a-string-in-swiftui.html)
-You can find the blog post on my website at 
+You can find the [blog post](https://www.createchsol.com/blog/2026-05-08-generating-a-qr-code-from-a-string-in-swiftui.html) on my website.
 ## What the App Demonstrates
 
 - Generating a QR code from a `String` using Core Image.
